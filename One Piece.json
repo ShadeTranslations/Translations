@@ -4,5 +4,17 @@
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1035": {
+      "title": "CHAPTER 1035 - ΖΟΡΟ VS ΚΙΝΓΚ",
+      "volume": "",
+      "last_updated": "1684274626",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1a4W8lWABnVOiF0UworVGyoHQOlFk_mcU",
+          "https://drive.google.com/uc?export=view&id=16n2oumowQg42AMPKrAvnyUxL8FFAj_UO"
+        ]
+      }
+    }
+  }
 }
